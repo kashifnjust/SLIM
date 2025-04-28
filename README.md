@@ -1,4 +1,4 @@
-This project is the intellectual property of Prof. Bo Huang and Muhammad Kashif, affiliated with the School of Computer Science and Engineering, Nanjing University of Science and Technology. Use and reproduction of this work are permitted only with prior authorization from the authors.
+This project is the property of Prof. Bo Huang and Muhammad Kashif, affiliated with the School of Computer Science and Engineering, Nanjing University of Science and Technology. Use and reproduction of this work are permitted only with prior authorization from the authors.
 
 For inquiries or further information, please contact Muhammad Kashif at kashif@njust.edu.cn.
 
